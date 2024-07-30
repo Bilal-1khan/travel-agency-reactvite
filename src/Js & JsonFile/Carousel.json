@@ -1,0 +1,32 @@
+[
+    {
+        "image":"https://images.unsplash.com/photo-1606511490662-b2c5be7d95a1?q=80&w=2025&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "city":"Karachi",
+        "place":"20 Place | 12 Hotel"
+    },
+    {
+        "image":"https://images.pexels.com/photos/11774127/pexels-photo-11774127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "city":"Lahore",
+        "place":"15 Place | 10 Hotel"
+    },
+    {
+        "image":"https://images.pexels.com/photos/2863221/pexels-photo-2863221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "city":"Sindh",
+        "place":"10 Place | 5 Hotel"
+    },
+    {
+        "image":"https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "city":"Punjab",
+        "place":"20 Place | 15 Hotel"
+    },
+    {
+        "image":"https://images.pexels.com/photos/14394126/pexels-photo-14394126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "city":"Islamabad",
+        "place":"17 Place | 10 Hotel"
+    },
+    {
+        "image":"https://images.pexels.com/photos/5204416/pexels-photo-5204416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "city":"Neelam Valley",
+        "place":"20 Place | 12 Hotel"
+    }
+]
